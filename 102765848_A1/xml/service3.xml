@@ -1,0 +1,245 @@
+	<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8"/>
+	<meta name="description" content="Basic HTML elements"/>
+	<meta name="keywords" content="HTML5, tags"/>
+	<meta name="author" content="Law Yuk Fung"/>
+
+	<title>IMAP</title>
+	<link rel="stylesheet" href="style/style.css"/>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Pacifico"/>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Orbitron"/>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Michroma"/>
+	
+</head>
+
+<body>
+	<header>
+		
+		
+		<ul class="nav">
+			
+			
+			<li class="logo"><a href="index.html">IMAP</a></li>
+			<li class="nav1"><a href="enhancements.html">Enhancements</a></li>
+			<li class="nav1"><a href="disclaimer.html">Disclaimer</a></li>
+			<li class="nav1"><a href="aboutme.html">About Me</a></li>
+			<li class="nav1"><a href="enquiry.html">Enquiry</a></li>
+			<li class="nav1">
+				<div class="dropdown">
+					<button class="dropbtn">Categories</button>
+					<div class="dropdown-content">
+						<a href="service1.html">Camera</a>
+						<a href="service2.html">Lens</a>
+						<a href="service3.html">Printer</a>
+						<a href="service4.html">Accessories</a>
+					</div>
+				</div>
+			</li>
+			
+			
+		</ul>
+	</header>
+
+	<div class="service1bg">
+		<p class="servicen">Printer</p>
+		<img src="images/service3bg.jpg" alt="camera description"/>
+		
+	</div>
+	<div class="space"></div>
+	<br/>
+	<br/>
+	
+	<section>	
+		<div class="servicepict1">
+			<img src="images/printer1.jpg" alt="Canon MAXIFY MB5470"/>
+			
+		</div>
+		
+		<div class="servicepict">
+			
+				<h2>Canon MAXIFY MB5470</h2>
+				<p>It is a business printer and efficient for small office printing. It can print at high quality and high volume, single-pass two-sided scanning also even faster than before.</p>
+				<h3>Price:</h3><p> RM150 per month</p>
+				<h3>Availability:</h3><p> In stock</p>
+				<h3>Features:</h3>
+					<ul>
+						<li>Print, Scan, Copy, Fax</li>
+						<li>Wired/Wireless</li>
+						<li>High capacity paper Cassettes</li>
+						<li>3.5" Touch screen LCD display</li>
+						
+					</ul>	
+				<h3>Rental Includes:</h3>
+					<ul>
+						<li>A4 paper</li>
+						<li>Black &#38; colour ink</li>
+					
+						
+					</ul>	
+			
+		</div>
+	</section>
+	<br/>
+	<br/>
+	<div class="space"></div>
+	<br/>
+	<br/>
+	<section>
+		
+		<div class="servicepict1">
+			<img src="images/printer2.jpg" alt="Canon PIXMA G4010"/>
+			
+		</div>
+		
+		<div class="servicepict">
+			
+				<h2>Canon PIXMA G4010</h2>
+				<p>It is a refillable ink tank printer and designed for high-volume printing. It can satisfy the whole day office needs and it supports auto document feeder and borderless printing</p>
+				<h3>Price:</h3><p> RM120 per month</p>
+				<h3>Availability:</h3><p> In stock</p>
+				<h3>Features:</h3>
+					<ul>
+						<li>Integrated Ink Tank System</li>
+						<li>Print, Scan, Copy, Fax</li>
+						<li>Wireless, Mopria, AirPrint, Direct Wireless</li>
+						<li>print volume: 150 - 1500 pages</li>
+						
+					</ul>	
+				<h3>Rental Includes:</h3>
+					<ul>
+						<li>A4 paper</li>
+						<li>Black &#38; colour ink</li>
+						
+					</ul>	
+			
+		</div>
+		
+		
+	</section>
+	<br/>
+	<br/>
+	<div class="space"></div>
+	<br/>
+	<br/>
+	<aside>
+		<div class="servicepict1">
+			<img src="images/printer3.jpg" alt="Canon imageCLASS LBP226dw"/>
+			
+		</div>
+		
+		<div class="servicepict">
+		
+			<h2>Canon imageCLASS LBP226dw</h2>
+			<p>It is a laser printer that comes with a simple outlook and excellent functionality. It satisfies mobile printing and PCL to ensure the best support to your business needs and print your document securely.</p>
+			<h3>Price:</h3><p> RM160 per month</p>
+			<h3>Availability:</h3><p> In stock</p>
+			<h3>Features:</h3>
+				<ul>
+					<li>Gigabit Ethernet, Wireless, Direct Connection</li>
+					<li>Mobile Printing</li>
+					<li>Monthly Print Volume 750 - 4,000 pages</li>
+					<li>Print Speed (A4): Up to 38ppm</li>
+					
+				</ul>	
+			<h3>Rental Includes:</h3>
+				<ul>
+					<li>A4 paper</li>
+					<li>Black &#38; colour ink</li>
+					
+				</ul>	
+		</div>
+	</aside>
+	<br/>
+	<br/>
+	<div class="space"></div>	
+	<br/>
+	<br/>
+	<aside>	
+		<div class="servicepict1">
+			<img src="images/printer4.jpg" alt="Canon SELPHY CP1300"/>
+			
+			
+		</div>
+		
+		<div class="servicepict">
+		
+			<h2>Canon SELPHY CP1300</h2>
+			<p>It is a compact, portable mobile printer with multi-functions. It can prints quality photos from your camera or smartphones directly by wireless connecting anytime or anywhere.</p>
+			<h3>Price:</h3> <p>RM20 per day</p>
+			<h3>Availability:</h3><p> In stock</p>
+			<h3>Features:</h3>
+				<ul>
+					<li>3.2" tilt-up LCD screen</li>
+					<li>Wireless printing support (including AirPrint and Mopria Print Service)</li>
+					<li>Optional battery pack (print up to 54 prints on a single charge) </li>
+					
+				</ul>	
+			<h3>Rental Includes:</h3>
+				<ul>
+					<li>A4 paper</li>
+					<li>Black &#38; colour ink</li>
+					
+				</ul>	
+		</div>
+	</aside>
+	
+	
+	<br/>
+	<br/>
+	<br/>
+	<br/>
+	
+	
+	<footer>
+		<div class="copyright">
+			<p> &#169; Copyright IMAP 2021 | If any issue please contact:<a href="mailto:102765848@students.swinburne.edu.my">102765848@students.swinburne.edu.my</a></p>
+		</div>
+		
+
+		<div class="fcontainer">	
+			<div class="footerca">
+				<h1>Categories</h1>
+				<a href="service1.html" target="_blank">Camera</a><br/><br/>
+				<a href="service2.html" target="_blank">Lens</a><br/><br/>
+				<a href="service3.html" target="_blank">Accessories</a><br/><br/>
+				<a href="service4.html" target="_blank">Printer</a>
+			
+			
+			</div>
+			<div class="vl"></div>
+			<div class="footerin">
+				<h1>Information</h1>
+				<a href="enquiry.html" target="_blank">Enquiry</a><br/><br/>
+				<a href="aboutme.html" target="_blank">About me</a><br/><br/>
+				<a href="disclaimer.html" target="_blank">Disclaimer</a><br/><br/>
+				<a href="enhancements.html" target="_blank">Enhancements</a>
+			
+			
+			</div>
+			<div class="vl"></div>
+			<div class="footer1">
+				<h1>Contact Us</h1>
+				<a href="index.html" class="fa fa-facebook"></a>
+				<a href="index.html" class="fa fa-google"></a>
+				<a href="index.html" class="fa fa-instagram"></a>
+			</div>	
+			
+			<div class="vl"></div>
+			<div class="acknowlegement">
+				<h1>Acknowlegement</h1>
+				<a href="https://my.canon/en/consumer" target="_blank">Canon</a><br/><br/>
+				<a href="https://www.borrowlenses.com" target="_blank">Borrowlens</a><br/><br/>
+				<a href="https://pixabay.com/zh/" target="_blank">Pixabay</a>
+		
+			</div>
+			
+			
+		</div>
+		
+	</footer>
+	</body>
+	</html>

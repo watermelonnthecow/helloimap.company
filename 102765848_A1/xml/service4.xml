@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8"/>
+	<meta name="description" content="Basic HTML elements"/>
+	<meta name="keywords" content="HTML5, tags"/>
+	<meta name="author" content="Law Yuk Fung"/>
+
+	<title>IMAP</title>
+	<link rel="stylesheet" href="style/style.css"/>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Pacifico"/>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Orbitron"/>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Michroma"/>
+	
+</head>
+
+<body>
+	<header>
+		
+		
+		<ul class="nav">
+			
+			
+			<li class="logo"><a href="index.html">IMAP</a></li>
+			<li class="nav1"><a href="enhancements.html">Enhancements</a></li>
+			<li class="nav1"><a href="disclaimer.html">Disclaimer</a></li>
+			<li class="nav1"><a href="aboutme.html">About Me</a></li>
+			<li class="nav1"><a href="enquiry.html">Enquiry</a></li>
+			<li class="nav1">
+				<div class="dropdown">
+					<button class="dropbtn">Categories</button>
+					<div class="dropdown-content">
+						<a href="service1.html">Camera</a>
+						<a href="service2.html">Lens</a>
+						<a href="service3.html">Printer</a>
+						<a href="service4.html">Accessories</a>
+					</div>
+				</div>
+			</li>
+			
+			
+		</ul>
+	</header>
+
+	<div class="service1bg">
+		<p class="servicen">Accessories</p>
+		<img src="images/service4bg.jpg" alt="camera description"/>
+		
+	</div>
+	<div class="space"></div>
+	<br/>
+	<br/>
+	
+	<section>	
+		<div class="servicepict1">
+			<img src="images/accessories1.png" alt="Canon Mount Adapter EF-EOS R"/>
+			
+		</div>
+		
+		<div class="servicepict">
+			
+				<h2>Canon Mount Adapter EF-EOS R</h2>
+				<p>It is a compact, lightweight, and portable adapter accessories for exchanging the lens and expanding the EOS R System's possibilities. </p>
+				<h3>Price:</h3><p> RM20 per day</p>
+				<h3>Availability:</h3><p> In stock</p>
+				<h3>Features:</h3>
+					<ul>
+						<li>Designed for Crop Sensor/Super 35 Sensors</li>
+						<li> Increases Angle of View by 0.71x</li>
+						<li>Increases Maximum Aperture by 1 Stop</li>
+						<li>suitable for all lens except EF-M and Cinema EOS lenses</li>
+						
+					</ul>	
+				<h3>Rental Includes:</h3>
+					<ul>
+						<li>Front cap</li>
+						<li>Rear cap</li>
+						
+						
+					</ul>	
+			
+		</div>
+	</section>
+	<br/>
+	<br/>
+	<div class="space"></div>
+	<br/>
+	<br/>
+	<section>
+		
+		<div class="servicepict1">
+			<img src="images/accessories2.png" alt="Canon Battery Grip BG-R10"/>
+			
+		</div>
+		
+		<div class="servicepict">
+			
+				<h2>Canon Battery Grip BG-R10</h2>
+				<p>It is designed for the user to achieve long-time shooting and would not prevent you from shooting. The design was also more accessible for the photographer to use as vertical orientation shooting. </p>
+				<h3>Price:</h3><p> RM20 per day</p>
+				<h3>Availability:</h3><p> In stock</p>
+				<h3>Features:</h3>
+					<ul>
+						<li>Dust and drip resistance design</li>
+						<li>FSupports in-camera battery recharging/direct power (via USB Adapter PD-E1)</li>
+						<li>1/4"-20 Tripod Mounting Thread</li>
+						<li>Only suitable for EOS R5 and EOS R6 </li>
+						
+					</ul>	
+				<h3>Rental Includes:  --</h3>
+					
+		
+			
+		</div>
+		
+		
+	</section>
+	<br/>
+	<br/>
+	<div class="space"></div>
+	<br/>
+	<br/>
+	<aside>
+		<div class="servicepict1">
+			<img src="images/accessories3.png" alt="Canon Stereo Microphone DM-E100"/>
+			
+		</div>
+		
+		<div class="servicepict">
+		
+			<h2>Canon Stereo Microphone DM-E100</h2>
+			<p> It provides a clear, high-quality stereo recording, and its plug-and-play design does not require batteries to operate. Its compact and lightweight design makes it suitable for travel light.</p>
+			<h3>Price:</h3> <p>RM20 per day</p>
+			<h3>Availability:</h3><p> In stock</p>
+			<h3>Features:</h3>
+				<ul>
+					<li>Unidirectional stereo recording</li>
+					<li> Plug-in power (no batteries required)</li>
+					<li>Easy plug and play</li>
+					
+				</ul>	
+			<h3>Rental Includes:</h3>
+				<ul>
+					<li> Wind screen</li>
+					<li>Carrying Case</li>
+					<li>3.5mm audio cable</li>
+					
+					
+				</ul>	
+		</div>
+	</aside>
+	<br/>
+	<br/>
+	<div class="space"></div>	
+	<br/>
+	<br/>
+	<aside>	
+		<div class="servicepict1">
+			<img src="images/accessories4.png" alt="Canon Speedlite 600EX II-RT"/>
+			
+			
+		</div>
+		
+		<div class="servicepict">
+		
+			<h2>Canon Speedlite 600EX II-RT</h2>
+			<p>It provides a new level of performance for professional photographers and also supporting radio and optical communication. If paired with a battery pack, it can achieve a maximum continuous output of approx.100 times.</p>
+			<h3>Price:</h3><p> RM25 per day</p>
+			<h3>Availability:</h3><p> In stock</p>
+			<h3>Features:</h3>
+				<ul>
+					<li> Zoom Range: 20mm-200mm</li>
+					<li>Recycle Time: 0.1-5.5 Seconds</li>
+					<li>Angle of Coverage: 94º - 12º</li>
+					<li>suitable for all EOS cameras</li>
+					
+				</ul>	
+			<h3>Rental Includes:</h3>
+				<ul>
+					<li>Flash Foot</li>
+					<li>Case</li>
+					
+					
+				</ul>	
+		</div>
+	</aside>
+	
+	
+	<br/>
+	<br/>
+	<br/>
+	<br/>
+	
+	
+	<footer>
+		<div class="copyright">
+			<p> &#169; Copyright IMAP 2021 | If any issue please contact:<a href="mailto:102765848@students.swinburne.edu.my">102765848@students.swinburne.edu.my</a></p>
+		</div>
+		
+
+		<div class="fcontainer">	
+			<div class="footerca">
+				<h1>Categories</h1>
+				<a href="service1.html" target="_blank">Camera</a><br/><br/>
+				<a href="service2.html" target="_blank">Lens</a><br/><br/>
+				<a href="service3.html" target="_blank">Accessories</a><br/><br/>
+				<a href="service4.html" target="_blank">Printer</a>
+			
+			
+			</div>
+			<div class="vl"></div>
+			<div class="footerin">
+				<h1>Information</h1>
+				<a href="enquiry.html" target="_blank">Enquiry</a><br/><br/>
+				<a href="aboutme.html" target="_blank">About me</a><br/><br/>
+				<a href="disclaimer.html" target="_blank">Disclaimer</a><br/><br/>
+				<a href="enhancements.html" target="_blank">Enhancements</a>
+			
+			
+			</div>
+			<div class="vl"></div>
+			<div class="footer1">
+				<h1>Contact Us</h1>
+				<a href="index.html" class="fa fa-facebook"></a>
+				<a href="index.html" class="fa fa-google"></a>
+				<a href="index.html" class="fa fa-instagram"></a>
+			</div>	
+			
+			<div class="vl"></div>
+			<div class="acknowlegement">
+				<h1>Acknowlegement</h1>
+				<a href="https://my.canon/en/consumer" target="_blank">Canon</a><br/><br/>
+				<a href="https://www.borrowlenses.com" target="_blank">Borrowlens</a><br/><br/>
+				<a href="https://pixabay.com/zh/" target="_blank">Pixabay</a>
+		
+			</div>
+			
+			
+		</div>
+		
+	</footer>
+	</body>
+	</html>

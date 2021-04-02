@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8"/>
+	<meta name="description" content="Basic HTML elements"/>
+	<meta name="keywords" content="HTML5, tags"/>
+	<meta name="author" content="Law Yuk Fung"/>
+
+	<title>IMAP</title>
+	<link rel="stylesheet" href="style/style.css"/>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Pacifico"/>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Orbitron"/>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Michroma"/>
+</head>
+
+<body>
+	
+	<header>
+		
+		
+		<ul class="nav">
+			
+			
+			<li class="logo"><a href="index.html">IMAP</a></li>
+			<li class="nav1"><a href="enhancements.html">Enhancements</a></li>
+			<li class="nav1"><a href="disclaimer.html">Disclaimer</a></li>
+			<li class="nav1"><a href="aboutme.html">About Me</a></li>
+			<li class="nav1"><a href="enquiry.html">Enquiry</a></li>
+			<li class="nav1">
+				<div class="dropdown">
+					<button class="dropbtn">Categories</button>
+					<div class="dropdown-content">
+						<a href="service1.html">Camera</a>
+						<a href="service2.html">Lens</a>
+						<a href="service3.html">Printer</a>
+						<a href="service4.html">Accessories</a>
+					</div>
+				</div>
+			</li>
+			
+			
+		</ul>
+	</header>
+	
+	<p class="title">Enquiry Form</p>
+	
+	<div>
+		<div class="form">
+			<form id="detail" method="post">
+			
+				<fieldset>
+					<legend>Personal Information</legend>
+					<label for ="fname">First name:*</label><input type="text" id="fname"
+					name="fname" placeholder="Enter your first name" maxlength="25" required="required" /><br/>
+					<label for ="fname">Last name:*</label><input type="text" id="lname"
+					name="lname" placeholder="Enter your last name"  maxlength="25"    required="required" /><br/>
+					<label for ="femail">Email address:*</label><input type="email" id="femail"
+					name="femail" placeholder="abc@example.com" required="required"/><br/>
+					<label for ="fphone">Phone number:*</label><input type="tel" id="fphone"
+					name="fphone" placeholder="###-#######" maxlength="10" required="required"/><br/>
+				</fieldset>
+				<br/>
+				<fieldset>
+					<legend>Address</legend>
+					<label for ="fstreet">Street address:*</label><input type="text" id="fstreet"
+					name="fstreet" placeholder="" maxlength="40"   required="required"/><br/>
+					<label for ="fcity">City/town:*</label><input type="text" id="fcity"
+					name="fcity" placeholder="" maxlength="20" /><br/>
+					<label>State:*</label>
+					<select name="Johor">
+						<option>Johor</option>
+						<option>Kedah</option>
+						<option>Kelantan</option>
+						<option>Melacca</option>
+						<option>Negeri Sembilan</option>
+						<option>Pahang</option>
+						<option>Penang</option>
+						<option>Perak</option>
+						<option>Perlis</option>
+						<option>Sabah</option>
+						<option>Sarawak</option>
+						<option>Selangor</option>
+						<option>Terengganu</option>
+						<option>Kuala Lumpur</option>
+						<option>Putrajaya</option>
+						<option>Labuan</option>
+						
+					</select>
+					<label for ="fpost">Postcode:*</label><input type="text" id="fpost"
+					name="fpost" placeholder="" maxlength="5" required="required"/><br/>
+			
+				</fieldset>
+				<br/>
+				<fieldset>
+					<legend> Rental Device Preferred</legend>
+					<label>Categories*</label>
+					<select name="Categories">
+						<option>Camera</option>
+						<option>Lens</option>
+						<option>Assesories</option>
+						<option>Printer</option>
+					</select><br/>
+					
+					<label>Device*</label>
+					<select name="Device">
+						<option>EOS-5D Mark IV Kit (EF 24 - 105 IS II USM)</option>
+						<option>EOS M50 Mark II (Body)EOS M200 (EF-M15-45mm f/3.5-6.3 IS STM)</option>
+						<option>EOS M50 Mark II (Body)</option>
+						<option>EOS M50 Mark II (Body)</option>
+						<option>Canon EF-S10-18mm f/4.5-5.6 IS STM</option>
+						<option>Canon EF100mm f/2.8L Macro IS USM</option>
+						<option>Canon RF100-500mm f/4.5-7.1L IS USM</option>
+						<option>Canon EF40mm f/2.8 STM</option>
+						<option>Canon MAXIFY MB5470</option>
+						<option>Canon PIXMA G4010</option>
+						<option>Canon imageCLASS LBP226dw</option>
+						<option>Canon SELPHY CP1300</option>
+						<option>Canon Mount Adapter EF-EOS R</option>
+						<option>Canon Battery Grip BG-R10</option>
+						<option>Canon Stereo Microphone DM-E100</option>
+						<option>Canon Speedlite 600EX II-RT</option>
+						
+					</select><br/>
+					<label>Rental date*</label>
+					<input type="date" name="date"/><br/><br/>
+					<label>Return date*</label>
+					<input type="date" name="date2"/><br/><br/>
+					<label>Comment:</label><br/>
+					<textarea rows="5" cols="130" placeholder="Enter comments here"></textarea>
+			
+				</fieldset>
+				<br/>
+			
+				<input type = "submit" value = "Submit"/>
+				<input type = "reset" value = "Reset"/>
+
+
+			</form>
+		</div>
+		
+	</div>	
+	
+	<footer>
+		<div class="copyright">
+			<p> &#169; Copyright IMAP 2021 | If any issue please contact:<a href="mailto:102765848@students.swinburne.edu.my">102765848@students.swinburne.edu.my</a></p>
+		</div>
+		
+
+		<div class="fcontainer">	
+			<div class="footerca">
+				<h1>Categories</h1>
+				<a href="service1.html" target="_blank">Camera</a><br/><br/>
+				<a href="service2.html" target="_blank">Lens</a><br/><br/>
+				<a href="service3.html" target="_blank">Accessories</a><br/><br/>
+				<a href="service4.html" target="_blank">Printer</a>
+			
+			
+			</div>
+			<div class="vl"></div>
+			<div class="footerin">
+				<h1>Information</h1>
+				<a href="enquiry.html" target="_blank">Enquiry</a><br/><br/>
+				<a href="aboutme.html" target="_blank">About me</a><br/><br/>
+				<a href="disclaimer.html" target="_blank">Disclaimer</a><br/><br/>
+				<a href="enhancements.html" target="_blank">Enhancements</a>
+			
+			
+			</div>
+			<div class="vl"></div>
+			<div class="footer1">
+				<h1>Contact Us</h1>
+				<a href="index.html" class="fa fa-facebook"></a>
+				<a href="index.html" class="fa fa-google"></a>
+				<a href="index.html" class="fa fa-instagram"></a>
+			</div>	
+			
+			<div class="vl"></div>
+			<div class="acknowlegement">
+				<h1>Acknowlegement</h1>
+				<a href="https://my.canon/en/consumer" target="_blank">Canon</a><br/><br/>
+				<a href="https://www.borrowlenses.com" target="_blank">Borrowlens</a><br/><br/>
+				<a href="https://pixabay.com/zh/" target="_blank">Pixabay</a>
+		
+			</div>
+			
+			
+		</div>
+		
+	</footer>
+</body>
+
+
+
+
+</html>

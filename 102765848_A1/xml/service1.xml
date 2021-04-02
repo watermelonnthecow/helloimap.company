@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8"/>
+	<meta name="description" content="Basic HTML elements"/>
+	<meta name="keywords" content="HTML5, tags"/>
+	<meta name="author" content="Law Yuk Fung"/>
+
+	<title>IMAP</title>
+	<link rel="stylesheet" href="style/style.css"/>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Pacifico"/>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Orbitron"/>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Michroma"/>
+	
+</head>
+
+<body>
+	<header>
+		
+		
+		<ul class="nav">
+			
+			
+			<li class="logo"><a href="index.html">IMAP</a></li>
+			<li class="nav1"><a href="enhancements.html">Enhancements</a></li>
+			<li class="nav1"><a href="disclaimer.html">Disclaimer</a></li>
+			<li class="nav1"><a href="aboutme.html">About Me</a></li>
+			<li class="nav1"><a href="enquiry.html">Enquiry</a></li>
+			<li class="nav1">
+				<div class="dropdown">
+					<button class="dropbtn">Categories</button>
+					<div class="dropdown-content">
+						<a href="service1.html">Camera</a>
+						<a href="service2.html">Lens</a>
+						<a href="service3.html">Printer</a>
+						<a href="service4.html">Accessories</a>
+					</div>
+				</div>
+			</li>
+			
+			
+		</ul>
+	</header>
+
+	<div class="service1bg">
+		<p class="servicen">Camera</p>
+		<img src="images/service1bg.jpg" alt="camera description"/>
+		
+	</div>
+	<div class="space"></div>
+	<br/>
+	<br/>
+	
+	<section>	
+		<div class="servicepict1">
+			<img src="images/camera1.png" alt="Canon EOS-5D Mark IV Kit"/>
+			
+		</div>
+		
+		<div class="servicepict">
+			
+				<h2>Canon EOS-5D Mark IV Kit (EF 24 - 105 IS II USM)</h2>
+				<p>It is an interchangeable lens camera, and this is suitable for professional photographers or shutterbugs to rental for getting higher quality shooting.</p>
+				<h3>Price:</h3><p> RM80 per day</p>
+				<h3>Availability:</h3><p> In stock</p>
+				<h3>Features:</h3>
+					<ul>
+						<li>4k video(30p) recording</li>
+						<li>30.4MP Full-frame CMOS Sensor</li>
+						<li>Dual Pixel CMOS AF</li>
+						<li>Built-in Flash</li>
+						<li>Sensor Size: full frame</li>
+						
+					</ul>	
+				<h3>Rental Includes:</h3>
+					<ul>
+						<li>Charger</li>
+						<li>Battery x2</li>
+						<li>Body cap</li>
+						<li>Camera bag</li>
+						<li>Camera strap</li>
+						
+					</ul>	
+			
+		</div>
+	</section>
+	<br/>
+	<br/>
+	<div class="space"></div>
+	<br/>
+	<br/>
+	<section>
+		
+		<div class="servicepict1">
+			<img src="images/camera2.png" alt="Canon EOS M50 Mark II (Body)"/>
+			
+		</div>
+		
+		<div class="servicepict">
+			
+				<h2>Canon EOS M50 Mark II (Body)</h2>
+				<p>It is an interchangeable lens camera, and this is suitable for a vlogger to record their life or someone who wants to do live streaming. Its lightweight is convenient for vloggers or travelers to rental for higher quality shooting.</p>
+				<h3>Price:</h3><p> RM80 per day</p>
+				<h3>Availability:</h3><p> In stock</p>
+				<h3>Features::</h3>
+					<ul>
+						<li>4k video recording</li>
+						<li>Flexible touchscreen</li>
+						<li>Wireless connectivity: Wi-Fi, Bluetooth </li>
+						<li>In-camera YouTube live streaming for real-time video engagement</li>
+						
+					</ul>	
+				<h3>Rental Includes::</h3>
+					<ul>
+						<li>Charger</li>
+						<li>Battery x2</li>
+						<li>Camera bag</li>
+						<li>Camera strap</li>
+						
+					</ul>	
+			
+		</div>
+		
+		
+	</section>
+	<br/>
+	<br/>
+	<div class="space"></div>
+	<br/>
+	<br/>
+	<aside>
+		<div class="servicepict1">
+			<img src="images/camera3.png" alt="EOS M200 (EF-M15-45mm f/3.5-6.3 IS STM)"/>
+			
+		</div>
+		
+		<div class="servicepict">
+		
+			<h2>Canon EOS M200 (EF-M15-45mm f/3.5-6.3 IS STM)</h2>
+			<p>It is an interchangeable lens camera, and this is suitable for beginner shutterbug or the vlogger who wants to learn photographing at first. Besides that, its lightweight also provides convenience to the user.</p>
+			<h3>Price:</h3><p> RM20 per day</p>
+			<h3>Availability:</h3><p> In stock</p>
+			<h3>Features::</h3>
+				<ul>
+					<li>4k resolution video recording</li>
+					<li>24.1MP APS-C CMOS Sensor + DIGIC 8</li>
+					
+					<li>Flex-top screen</li>
+					<li>Eye detection and focus </li>
+					
+				</ul>	
+			<h3>Rental Includes::</h3>
+				<ul>
+					<li>Charger</li>
+					<li>Battery x2</li>
+					<li>Body cap</li>
+					<li>Camera bag</li>
+					<li>Camera strap</li>
+					
+				</ul>	
+		</div>
+	</aside>
+	<br/>
+	<br/>
+	<div class="space"></div>	
+	<br/>
+	<br/>
+	<aside>	
+		<div class="servicepict1">
+			<img src="images/camera4.png" alt="EOS M50 Kit (EF-M15-45 IS STM &amp; EF-M55-200 IS STM)"/>
+			
+			
+		</div>
+		
+		<div class="servicepict">
+		
+			<h2>Canon EOS M50 Kit (EF-M15-45 IS STM &amp; EF-M55-200 IS STM)</h2>
+			<p>It is an interchangeable lens camera, and this is suitable for beginners to enjoy shooting. It comes with a Silent scene mode for shooting with no shutter sound.</p>
+			<h3>Price:</h3><p> RM30 per day</p>
+			<h3>Availability:</h3><p> In stock</p>
+			<h3>Features:</h3>
+				<ul>
+					<li>Movie shooting in 4K 23.98p / 25p</li>
+					<li>0.39 type, approx. 2.36 million-dot OLED EVF</li>
+					<li>Sharing Made Easy – New automatic transfer function in real-time while shooting </li>
+					
+				</ul>	
+			<h3>Rental Includes:</h3>
+				<ul>
+					<li>Charger</li>
+					<li>Battery x2</li>
+					<li>Body cap</li>
+					<li>Camera bag</li>
+					<li>Camera strap</li>
+					
+				</ul>	
+		</div>
+	</aside>
+	
+	
+	<br/>
+	<br/>
+	<br/>
+	<br/>
+	
+	
+	<footer>
+		<div class="copyright">
+			<p> &#169; Copyright IMAP 2021 | If any issue please contact:<a href="mailto:102765848@students.swinburne.edu.my">102765848@students.swinburne.edu.my</a></p>
+		</div>
+		
+
+		<div class="fcontainer">	
+			<div class="footerca">
+				<h1>Categories</h1>
+				<a href="service1.html" target="_blank">Camera</a><br/><br/>
+				<a href="service2.html" target="_blank">Lens</a><br/><br/>
+				<a href="service3.html" target="_blank">Accessories</a><br/><br/>
+				<a href="service4.html" target="_blank">Printer</a>
+			
+			
+			</div>
+			<div class="vl"></div>
+			<div class="footerin">
+				<h1>Information</h1>
+				<a href="enquiry.html" target="_blank">Enquiry</a><br/><br/>
+				<a href="aboutme.html" target="_blank">About me</a><br/><br/>
+				<a href="disclaimer.html" target="_blank">Disclaimer</a><br/><br/>
+				<a href="enhancements.html" target="_blank">Enhancements</a>
+			
+			
+			</div>
+			<div class="vl"></div>
+			<div class="footer1">
+				<h1>Contact Us</h1>
+				<a href="index.html" class="fa fa-facebook"></a>
+				<a href="index.html" class="fa fa-google"></a>
+				<a href="index.html" class="fa fa-instagram"></a>
+			</div>	
+			
+			<div class="vl"></div>
+			<div class="acknowlegement">
+				<h1>Acknowlegement</h1>
+				<a href="https://my.canon/en/consumer" target="_blank">Canon</a><br/><br/>
+				<a href="https://www.borrowlenses.com" target="_blank">Borrowlens</a><br/><br/>
+				<a href="https://pixabay.com/zh/" target="_blank">Pixabay</a>
+		
+			</div>
+			
+			
+		</div>
+		
+	</footer>
+	</body>
+	</html>
